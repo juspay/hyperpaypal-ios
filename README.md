@@ -1,2 +1,3 @@
-# hyperpaypal-ios
-Swift package manager version of HyperPayPal
+# HyperPayPal
+
+Supports PayPalMagnes SDK through HyperSDK.
