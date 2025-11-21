@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperPayPal",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.4.17/HyperPayPal.zip",
-            checksum: "1898b70b689e172c7f5c2bf8e5d4dade8195f6b536fd862e568d96e373b572f0"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.5/HyperPayPal.zip",
+            checksum: "3150bbaf215263faa21cf350de247669529aa985822f7400bfb806cc39e6a3ed"
         ),
         .binaryTarget(
             name: "PPRiskMagnes",
