@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "HyperPayPal",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperPayPal",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7.1/HyperPayPal.zip",
-            checksum: "c59cec6547e4378293308094c426201fe1dc31b724e6969f4eed724773679890"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7.2/HyperPayPal.zip",
+            checksum: "cd42bd868928b0102a7e4adc7c73136bb1c3beaffe2cbe8d1b63a80d0188d070"
         ),
         .binaryTarget(
             name: "PPRiskMagnes",
